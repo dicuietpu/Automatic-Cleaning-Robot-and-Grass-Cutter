@@ -31,8 +31,11 @@ Module-1(REMOTE)
 Module-2(ROBOT)
 
 ## Authors:
+
 * **Hardik Sharma**
-  **Jannat**
-  **Tushar**
+
+   **Jannat**
+  
+   **Tushar**
 
 
