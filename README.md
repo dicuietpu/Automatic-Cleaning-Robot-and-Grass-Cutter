@@ -32,7 +32,7 @@ Module-2(ROBOT)
 
 ## Authors:
 
-* **Hardik Sharma**
+ **Hardik Sharma**
 
    **Jannat**
   
